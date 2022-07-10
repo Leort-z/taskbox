@@ -27,6 +27,7 @@ export default function InboxScreen() {
   return (
     <div className='page lists-show'>
       <nav>
+        <p>Testign Chromatic CI</p>
         <h1 className='title-page'>Taskbox</h1>
       </nav>
       <TaskList />
